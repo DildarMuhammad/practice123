@@ -9,6 +9,7 @@ public class zshan {
 		// TODO Auto-generated method stub
 System.out.print("hi welcom to java");
 System.out.print("hi welcom to java");
+System.out.print("hi welcom to java");
 	}
 
 }
